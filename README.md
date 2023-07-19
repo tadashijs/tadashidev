@@ -2,6 +2,7 @@
 
 <h2>Ben Kimim</h2>
 
+```js
 class Papaz {
     constructor(options) {
         this.name = "Celal",
@@ -16,3 +17,4 @@ class Papaz {
 }
 
 module.exports = Voske
+```
