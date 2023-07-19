@@ -3,7 +3,7 @@
 <h2>Ben Kimim</h2>
 
 ```js
-class Papaz {
+class Voske {
     constructor(options) {
         this.name = "Celal",
         this.sex = "man",
