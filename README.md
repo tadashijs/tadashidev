@@ -12,7 +12,7 @@ class Voske {
         this.job = "developer",
         this.weight = "",
         this.age = "19",
-        this.discord.tag = "voskefx"
+        this.discord.tag = "tadashidev"
     };
 }
 
